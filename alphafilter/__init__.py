@@ -1,15 +1,16 @@
 """
-Django-AlphaFilter provides an admin widget for alphabetical filtering that 
+Django-AlphaFilter provides an admin widget for alphabetical filtering that
 works like date_hierarchy and an template tag for use elsewhere.
 """
 
 __version_info__ = {
     'major': 0,
-    'minor': 5,
-    'micro': 2,
+    'minor': 6,
+    'micro': 0,
     'releaselevel': 'final',
     'serial': 0
 }
+
 
 def get_version():
     """
